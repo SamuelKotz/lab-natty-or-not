@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Gerando uma apresentação escolar com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Descrição da Apresentação sobre Ética e Moralidade
+Esta apresentação sobre "Ética e Moralidade: O que é certo e errado? Como devemos agir?" foi criada com o auxílio da ferramenta de inteligência artificial SlidesGo. A IA me auxiliou na geração de um modelo de apresentação, fornecendo um ponto de partida estruturado e visualmente atraente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Neste projeto utilizei as ferramentas:
+- Gemini AI (Ajuda criativa, como questões sobre o tema)
+- SlidesGo (Este site possui uma ferramenta de IA que gera apresentações completas com um simples prompt)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Basicamente o processo não levou nem 30 minutos. Eu entrei no Gemini, pedi um tema aleatório escolar, e ele me sugeriu o tema de "Ética e Moralidade: O que é certo e errado? Como devemos agir?". Após, loguei no site da SlidesGo, fiz um prompt para ele gerar uma apresentação sobre este tema, selecionei um design minimalista e disse que queria 14 páginas em PT-BR. 
+Ele gerou a apresentação, adicionei um "Obrigado!" ao final e fiz o download. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://drive.google.com/file/d/1tyWGATqUVu-p3rrtN0sV3Fmt4heICs3N/view?usp=drive_link (link para visualizar a apresentação em PDF)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+É interessante ver como é fácil criar conteúdo "simples" mas eficiente com IAs. O resultado final não foi algo absurdamente fantástico nota 10, mas foi algo claro, objetico e suave, e não me consumiu nem meia hora para fazer. Facilmente daria para apresentar sem o professor perceber ser um conteúdo gerado por IA, talvez a única ressalva que eu faço seria quanto as imagens, que algumas são perceptíveis o uso de IA. 
